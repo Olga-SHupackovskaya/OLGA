@@ -1,6 +1,6 @@
 # a ssdfghuper simple example class to use git in ruby
 class SimpleGit
-  
+  werty
   def initialize(git_dir = '.')
     @git_dir = File.expand_path(git_dir)
   end
